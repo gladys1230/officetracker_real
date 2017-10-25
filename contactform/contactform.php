@@ -8,6 +8,7 @@
 
 // Enter your email, where you want to receive the messages.
 $contact_email_to = "kitchan3495@gmail.com";
+//$contact_email_to = "";
 
 // Subject prefix
 $contact_subject_prefix = "Contat Form Message: ";
